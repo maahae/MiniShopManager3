@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MiniShopManager</string>
+    <string name="app_subtitle">Votre boutique d\'électronique en Tunisie</string>
+    <string name="title_products">Nos Produits</string>
+    <string name="title_models">Modèles de Téléphone</string>
+    <string name="subtitle_models">Choisissez votre marque préférée</string>
+    <string name="subtitle_phone_list">Sélectionnez votre modèle et découvrez les prix en DT</string>
+    <string name="btn_profile">Profil</string>
+    <string name="btn_back_products">Retour aux produits</string>
+    <string name="btn_back_brands">Retour aux marques</string>
+    <string name="btn_back_shop">Retour à la boutique</string>
+    <string name="profile_welcome">Bienvenue GTIC L3X 2025/2026</string>
+    <string name="profile_subtitle">Gestionnaire de Boutique - Tunisie</string>
+    <string name="profile_role">Administrateur GTIC</string>
+    <string name="desc_logo">Logo de l\'application</string>
+    <string name="desc_profile_photo">Photo de profil</string>
+    <string name="desc_product_img">Image Produit</string>
+    <string name="desc_model_img">Logo Modèle</string>
+    <string name="desc_arrow">Flèche de navigation</string>
+    <string name="btn_view">Voir</string>
+</resources>

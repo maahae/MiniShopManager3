@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Strap -->
+  <path
+      android:fillColor="#004D40"
+      android:pathData="M8,1h8v4H8zM8,19h8v4H8z"/>
+  <!-- Watch Body -->
+  <path
+      android:fillColor="#00796B"
+      android:pathData="M16.5,4h-9C6.12,4 5,5.12 5,6.5v11C5,18.88 6.12,20 7.5,20h9c1.38,0 2.5,-1.12 2.5,-2.5v-11C19,5.12 17.88,4 16.5,4z"/>
+  <!-- Screen Ring -->
+  <path
+      android:fillColor="#80CBC4"
+      android:pathData="M12,7c-2.76,0 -5,2.24 -5,5s2.24,5 5,5 5,-2.24 5,-5 -2.24,-5 -5,-5zM12,15c-1.66,0 -3,-1.34 -3,-3s1.34,-3 3,-3 3,1.34 3,3 -1.34,3 -3,3z"/>
+</vector>
